@@ -22,7 +22,7 @@
   </div>
 
   <ul className={style.list}>
-     {/* Довільна кіл-сть
+    {/* Довільна кіл-сть
         <li className={style.item}>
            <ForbesListItem/>
         </li>
